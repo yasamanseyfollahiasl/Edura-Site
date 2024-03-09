@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'red rose';
+    src: url('../Font/RedRose-Regular.ttf');
+}
+
+.maxwidth {
+    max-width: 80rem;
+    height: none;
+}
+
+
+.fontsize {
+    font-size: 10px;
+    ;
+}
